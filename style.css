@@ -1,0 +1,103 @@
+body {
+
+    
+    background-color: rgb(249,246,227);
+
+}
+
+h1{
+
+text-align:center;
+color:rgb(192,58,30);
+justify-content:space-evenly;
+
+
+
+}
+
+h2{
+
+color:rgb(192,58,30);
+
+
+
+}
+
+.header{
+
+
+
+display: flex;
+
+flex-wrap:wrap;
+
+}
+
+
+
+.catagories{
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    justify-content:space-evenly;
+
+background-color:rgb(236,101,6);
+
+
+}
+
+
+
+ .education{
+
+border:solid;
+
+border-style: dotted;
+
+display:flex;
+
+justify-content:center
+
+
+ }
+
+ h3{
+
+
+color:black;
+
+background-color:rgb(198,52,30);
+
+ }
+
+.division{
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    
+
+
+
+} 
+
+.footer{
+
+
+    display: flex;
+
+    flex-wrap:wrap;
+    
+    justify-content:space-evenly;
+    
+    background-color:rgb(255,125,1);
+    
+
+
+
+
+}
+
